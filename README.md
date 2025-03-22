@@ -27,7 +27,7 @@ This is an AI-driven **Sentiment Analysis Web Page** with a **modern UI** built 
 ## 🚀 Installation & Setup
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/yourusername/sentiment-analysis-webapp.git
+git clone https://github.com/ankit1068/AI-Driven_Sentiment_Analysis-webapp.git
 cd sentiment-analysis-webapp
 ```
 
@@ -91,9 +91,7 @@ This project is **open-source** under the **MIT License**.
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork the repo and submit a **pull request (PR)**.  
 
-
 ---
-
 ## Contact
 
 For any questions or feedback, feel free to contact:
