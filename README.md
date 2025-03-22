@@ -106,6 +106,8 @@ GitHub: ankit1068
 
 ## Screenshots: 
 ![Screenshot 2025-03-22 232008](https://github.com/user-attachments/assets/a191fab5-ddac-4eae-821e-e2d18ec63cee)
+![Screenshot 2025-03-22 232042](https://github.com/user-attachments/assets/5a1ff624-3554-4160-952f-0bc5d2d270b2)
+
 
 
 
