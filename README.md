@@ -85,18 +85,24 @@ Try analyzing these sample sentences!
 📊 **Live sentiment tracking** for tweets & news articles  
 
 ---
+## 🌎 License
+This project is **open-source** under the **MIT License**.  
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork the repo and submit a **pull request (PR)**.  
 
-💌 **Questions?** Reach out at [your-email@example.com](mailto:your-email@example.com)  
 
 ---
 
-## 🌎 License
-This project is **open-source** under the **MIT License**.  
+## Contact
 
----
+For any questions or feedback, feel free to contact:
+
+Ankit kumar
+
+Email: your-ankitrajj1068@gmail.com
+
+GitHub: ankit1068
 
 
 
