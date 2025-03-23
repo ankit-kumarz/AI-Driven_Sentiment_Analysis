@@ -56,7 +56,7 @@ Simply open `index.html` in your browser and start analyzing text! 🎯
 📁 sentiment-analysis-webapp
  ├── 📄 index.html         # Frontend UI with Tailwind & Chart.js
  ├── 📄 sentiment_model.py # Flask backend with TextBlob sentiment analysis
- ├── 📄 README.md          # Project Documentation
+ ├── 📄 README.md          # Detail Project Documentation
 ```
 
 ---
