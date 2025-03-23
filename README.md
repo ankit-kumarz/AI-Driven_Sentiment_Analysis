@@ -11,7 +11,7 @@ This is an AI-driven **Sentiment Analysis Web Page** with a **modern UI** built 
 
 ---
 
-## 📌 Tech Stack
+## 📌 Tech Stack:
 ### **Frontend (UI)**
 - **HTML, Tailwind CSS** for styling  
 - **JavaScript (Fetch API)** to communicate with backend  
