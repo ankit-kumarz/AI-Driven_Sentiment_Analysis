@@ -89,7 +89,7 @@ Try analyzing these sample sentences!
 This project is **open-source** under the **MIT License**.  
 
 ## 🤝 Contributing
-Contributions are welcome! Feel free to fork the repo and submit a **pull request (PR)**.  
+Contributions are welcome! Feel free to fork the repo and submit a **pull request (PR)**. 
 
 ---
 ## Contact
