@@ -3,14 +3,14 @@ from flask_cors import CORS
 from textblob import TextBlob
 
 app = Flask(__name__)
-CORS(app)  # Enable Cross-Origin Resource Sharing
+CORS(app)  
 
 @app.route('/analyze', methods=['POST'])
 def analyze_sentiment():
     data = request.json
     text = data.get("text", "")
     
-    if not text:  # Handle empty input case
+    if not text:  
         return jsonify({"error": "Text is required!"}), 400
     
     sentiment_score = TextBlob(text).sentiment.polarity
