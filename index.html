@@ -9,25 +9,25 @@
 </head>
 <body class="bg-gradient-to-r from-purple-500 via-blue-500 to-indigo-500 text-gray-900 flex flex-col items-center p-10 min-h-screen">
 
-    <!-- Heading -->
+   
     <h1 class="text-4xl font-extrabold mb-8 text-white drop-shadow-lg">🚀 AI Sentiment Analysis</h1>
 
-    <!-- Card Container -->
+    
     <div class="bg-white/20 backdrop-blur-lg shadow-lg p-6 rounded-2xl w-3/4 max-w-2xl">
         <textarea id="text-input" class="w-full p-4 text-gray-900 rounded-lg border border-gray-300 focus:ring-2 focus:ring-blue-500 focus:outline-none transition-all" 
                   placeholder="Enter your text here..."></textarea>
 
-        <!-- Button -->
+       
         <button onclick="analyzeSentiment()" 
                 class="mt-4 px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white rounded-lg shadow-md hover:shadow-xl transition-all text-lg font-semibold">
             Analyze 🔍
         </button>
 
-        <!-- Result Display -->
+       
         <p id="result" class="text-xl font-semibold mt-4 text-center"></p>
     </div>
 
-    <!-- Chart for sentiment visualization -->
+    
     <div class="w-3/4 max-w-2xl mt-8 p-6 bg-white/20 backdrop-blur-lg rounded-2xl shadow-lg">
         <canvas id="sentimentChart"></canvas>
     </div>
