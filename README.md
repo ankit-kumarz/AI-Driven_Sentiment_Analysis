@@ -62,7 +62,7 @@ Simply open `index.html` in your browser and start analyzing text! 🎯
 
 ---
 
-## 📊 How It Works?
+## 📊 How It Works???
 1️⃣ **User enters text** in the input box.  
 2️⃣ **Frontend sends a request** to the Flask backend (`/analyze`).  
 3️⃣ **Flask processes the text** with **TextBlob AI** and returns a **sentiment score**.  
