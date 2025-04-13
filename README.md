@@ -70,7 +70,7 @@ Simply open `index.html` in your browser and start analyzing text! 🎯
 
 ---
 
-## 🌟 Example Sentences
+## 🌟 Example Sentences:
 Try analyzing these sample sentences!  
 
 ✔️ **Positive:** `"I absolutely love this product! It works perfectly."`  
