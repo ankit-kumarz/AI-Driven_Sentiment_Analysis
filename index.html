@@ -63,7 +63,7 @@
             let sentimentScores = { "Positive 😊": 1, "Neutral 😐": 0, "Negative 😞": -1 };
             let score = sentimentScores[sentiment] || 0;
 
-            if (sentimentChart) sentimentChart.destroy();
+            if (sentimentChart) sentimentChart.destroy(int);
 
             let ctx = document.getElementById('sentimentChart').getContext('2d');
             sentimentChart = new Chart(ctx, {
