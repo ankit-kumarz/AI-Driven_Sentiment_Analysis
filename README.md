@@ -101,7 +101,7 @@ Ankit kumar
 
 Email: your-ankitrajj1068@gmail.com
 
-GitHub: [ankit1068]
+GitHub: [ankit-kumarz]
 
 ## Screenshots: 
 ![Screenshot 2025-03-22 233514](https://github.com/user-attachments/assets/96c20d6b-e57f-468b-9dc2-38e2e7d27ac1)
