@@ -61,7 +61,6 @@ Simply open `index.html` in your browser and start analyzing text! 🎯
 ```
 
 ---
-
 ## 📊 How It Works???
 1️⃣ **User enters text** in the input box.  
 2️⃣ **Frontend sends a request** to the Flask backend (`/analyze`).  
