@@ -49,7 +49,7 @@
             })
             .then(response => response.json())
             .then(data => {
-                if (data.error) {
+                if (data.error){
                     document.getElementById("result").innerText = "Error: " + data.error;
                 } else {
                     document.getElementById("result").innerText = "Sentiment: " + data.sentiment;
