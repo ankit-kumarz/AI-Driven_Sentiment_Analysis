@@ -59,7 +59,7 @@
             .catch(error => console.error("Error:", error));
         }
 
-        function updateChart(sentiment) {
+        function updateChart(sentiment){
             let sentimentScores = { "Positive 😊": 1, "Neutral 😐": 0, "Negative 😞": -1 };
             let score = sentimentScores[sentiment] || 0;
 
