@@ -85,7 +85,7 @@ Try analyzing these sample sentences!
 📊 **Live sentiment tracking** for tweets & news articles  
 
 ---
-## 🌎 License
+## 🌎 License:
 This project is **open-source** under the **MIT License**.   
 
 ## 🤝 Contributing-
