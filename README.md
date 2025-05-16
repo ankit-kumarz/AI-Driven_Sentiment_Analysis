@@ -79,7 +79,7 @@ Try analyzing these sample sentences!
 
 ---
 
-## 🎉 Future Improvements
+## 🎉 Future Improvements:
 🚀 **BERT-based deep learning model** for better accuracy  
 🎨 **More UI enhancements** like dark mode & animations  
 📊 **Live sentiment tracking** for tweets & news articles  
