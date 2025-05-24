@@ -63,7 +63,6 @@
             let score = sentimentScores[sentiment] || 0;
 
             if (sentimentChart) sentimentChart.destroy();
-
             let ctx = document.getElementById('sentimentChart').getContext('2d');
             sentimentChart = new Chart(ctx, {
                 type: 'bar',
