@@ -26,7 +26,7 @@ This is an AI-driven **Sentiment Analysis Web Page** with a **modern UI** built 
 ---
 
 ## 🚀 Installation & Setup: 
-### **1️⃣ Clone the Repository**
+### **1️⃣ Clone the Repository** 
 ```sh
 git clone https://github.com/ankit-kumarz/AI-Driven_Sentiment_Analysis-webapp.git
 cd sentiment-analysis-webapp
