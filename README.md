@@ -32,7 +32,7 @@ git clone https://github.com/ankit-kumarz/AI-Driven_Sentiment_Analysis-webapp.gi
 cd sentiment-analysis-webapp
 ```
 
-### **2️⃣ Install Backend Dependencies**
+### **2️⃣ Install Backend Dependencies** 
 ```sh
 pip install flask flask-cors textblob nltk
 ```
