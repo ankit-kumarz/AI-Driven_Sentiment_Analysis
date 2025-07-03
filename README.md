@@ -9,7 +9,6 @@ This is an AI-driven **Sentiment Analysis Web Page** with a **modern UI** built 
 ✅ **Fast and Lightweight** Flask backend  
 ✅ **Easy to Deploy & Extend**  
 
-
 ---
 
 ## 📌 Tech Stack:
