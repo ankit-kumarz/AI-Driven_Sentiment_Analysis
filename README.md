@@ -52,7 +52,7 @@ Simply open `index.html` in your browser and start analyzing text! 🎯
 
 ---
 
-## 🖥️ Project Structure:-
+## 🖥️ Project Structure:- 
 ``` 
 📁 sentiment-analysis-webapp
  ├── 📄 index.html         # Frontend UI with Tailwind & Chart.js
