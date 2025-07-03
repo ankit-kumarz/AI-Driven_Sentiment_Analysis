@@ -41,7 +41,7 @@ pip install flask flask-cors textblob nltk
 python -m textblob.download_corpora
 ```
 
-### **3️⃣ Run the Backend (Flask Server)**
+### **3️⃣ Run the Backend (Flask Server)** 
 ```sh
 python sentiment_model.py
 ```
