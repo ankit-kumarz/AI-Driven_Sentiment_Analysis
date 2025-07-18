@@ -35,7 +35,7 @@ cd sentiment-analysis-webapp
 ```sh
 pip install flask flask-cors textblob nltk
 ```
-📌 **One-time setup for TextBlob**  
+📌 **One-time setup for TextBlob**   
 ```sh
 python -m textblob.download_corpora 
 ```
