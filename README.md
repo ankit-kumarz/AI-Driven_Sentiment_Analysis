@@ -45,7 +45,7 @@ python -m textblob.download_corpora
 python sentiment_model.py
 ```
 > **Server will run at:** `http://127.0.0.1:5000/` 
-
+ 
 ### **4️⃣ Open the Frontend**
 Simply open `index.html` in your browser and start analyzing text! 🎯  
 
