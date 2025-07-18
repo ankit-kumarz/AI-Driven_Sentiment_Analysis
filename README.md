@@ -37,7 +37,7 @@ pip install flask flask-cors textblob nltk
 ```
 📌 **One-time setup for TextBlob**  
 ```sh
-python -m textblob.download_corpora
+python -m textblob.download_corpora 
 ```
 
 ### **3️⃣ Run the Backend (Flask Server)** 
