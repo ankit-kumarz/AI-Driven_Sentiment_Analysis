@@ -7,7 +7,7 @@ This is an AI-driven **Sentiment Analysis Web Page** with a **modern UI** built 
 ✅ **Modern UI with Tailwind CSS**  
 ✅ **Interactive Chart.js Visualization** for sentiment trends     
 ✅ **Fast and Lightweight** Flask backend  
-✅ **Easy to Deploy & Extend**   
+✅ **Easy to Deploy & Extend**    
 
 --- 
 
