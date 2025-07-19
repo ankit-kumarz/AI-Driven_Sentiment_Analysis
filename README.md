@@ -49,7 +49,7 @@ python sentiment_model.py
 ### **4️⃣ Open the Frontend**
 Simply open `index.html` in your browser and start analyzing text! 🎯  
 
----
+--- 
 
 ## 🖥️ Project Structure:- 
 ```  
