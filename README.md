@@ -1,7 +1,7 @@
 # 🎭 AI Sentiment Analysis Web App 🚀 
 
 This is an AI-driven **Sentiment Analysis Web Page** with a **modern UI** built using **Tailwind CSS**, and **real-time sentiment visualization** using **Chart.js**. The backend is powered by **Flask and TextBlob** for sentiment detection.
-
+ 
 ## 🌟 Features:
 ✅ **Real-time Sentiment Analysis** (Positive, Neutral, Negative)   
 ✅ **Modern UI with Tailwind CSS**  
