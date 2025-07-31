@@ -94,9 +94,9 @@ Contributions are welcome! Feel free to fork the repo and submit a **pull reques
 
 For any questions or feedback, feel free to contact:
 
-Ankit kumar
+Author: Ankit kumar
 
-Email: your-ankitrajj1068@gmail.com
+Email: ankitrajj1068@gmail.com
 
 GitHub: [ankit-kumarz] 
 
